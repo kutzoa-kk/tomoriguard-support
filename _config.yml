@@ -1,0 +1,12 @@
+title: TomoriGuard サポート
+description: 集中・習慣・学習を支える TomoriGuard のお問い合わせと各種文書
+lang: ja
+url: https://kutzoa-kk.github.io
+baseurl: /tomoriguard-support
+theme: jekyll-theme-minimal
+show_downloads: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
